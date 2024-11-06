@@ -4,6 +4,6 @@ This is a learning project. I followed tutorial to learn how to make a sidebar. 
 
 #Explanation:
 
-<aside>: This tag holds the entire sidebar.
-<div class=”logo”>: This section displays the logo.
-<nav class=”menu”>: This contains navigation links like “Home,” “Stats,” and more.
+<<aside>>: This tag holds the entire sidebar.
+<<div class=”logo”>>: This section displays the logo.
+<<nav class=”menu”>>: This contains navigation links like “Home,” “Stats,” and more.
